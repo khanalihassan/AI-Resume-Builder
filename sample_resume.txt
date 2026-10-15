@@ -1,0 +1,17 @@
+ALI HASSAN
+
+Email: ali@example.com
+
+Location: Lahore, Pakistan
+
+Professional Summary:
+Beginner Python developer learning AI and machine learning.
+
+Skills:
+Python, NumPy, Pandas, SQL, Git
+
+Education:
+BS Computer Science
+
+Projects:
+Student Management System using Python.
